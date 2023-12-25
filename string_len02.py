@@ -7,4 +7,4 @@ def main(a):
         True or False
     """
     return len(a)%2==0
-print("code")
+print(main("code"))
