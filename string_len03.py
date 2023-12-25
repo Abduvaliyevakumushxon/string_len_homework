@@ -8,4 +8,4 @@ def main(a,b):
         True or False
     """
     return len (a)==len(b)
-print("code","exam")
+print(main("code","exam"))
